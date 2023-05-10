@@ -1,0 +1,23 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterprogram10/Async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterprogram10/Async-landing/issues"
+  },
+  "homepage": "https://github.com/masterprogram10/Async-landing/blob/8313d071868e1452f449e1bb151498fe1cc0858a/README.md",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
